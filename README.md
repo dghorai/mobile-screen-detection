@@ -1,4 +1,4 @@
-a# detect-mobile-screen-on-or-off
+# detect-mobile-screen-on-or-off
 
 Mobile pictures collected from internet and youtube videos and then data augmentation techniques used to increase the training sample for model development.
 
